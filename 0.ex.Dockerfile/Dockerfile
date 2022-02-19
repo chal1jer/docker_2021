@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-LABEL org.opencontainers.image.authors="jerome"
+LABEL org.opencontainers.image.authors="chal1jer"
 RUN apt-get update \
 && apt-get install -y vim git \
 && apt-get clean \
