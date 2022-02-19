@@ -1,1 +1,1 @@
-Simple exercices to test en practice with Docker. 
+Simple exercices to test and practice with Docker. 
